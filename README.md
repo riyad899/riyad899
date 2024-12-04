@@ -65,4 +65,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyad899&show_icons=true&locale=en" alt="riyad899" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyad899&" alt="riyad899" /></p>
