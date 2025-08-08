@@ -6,19 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyad899&label=Profile%20views&color=0e75b6&style=flat" alt="riyad899" /> </p>
 
-- 🔭 I’m currently working on [CodeCraft](https://github.com/CodeCraftCollab)
+- 🔭 I’m currently working on [Rootsy](https://courageous-sawine-39b32c.netlify.app/)
 
-- 🌱 I’m currently learning **Python django,React.js**
+- 🌱 I’m currently learning **Python django,Next.js.**
 
 - 👯 I’m looking to collaborate on [CodeConnect](https://github.com/CodeConnect)
 
 - 🤝 I’m looking for help with [MoneyMaster](https://github.com/yourusername/moneymaster)
 
-- 👨‍💻 All of my projects are available at [https://urlis.net/8kxmgrrx](https://urlis.net/8kxmgrrx)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolioriyadus.netlify.app/)
 
-- 📝 I regularly write articles on [https://shorturl.at/dnxzF](https://shorturl.at/dnxzF)
+- 📝 I regularly write articles on [[https://shorturl.at/dnxzF](https://shorturl.at/dnxzF](https://www.linkedin.com/in/riyadus/recent-activity/all/))
 
-- 💬 Ask me about **react,vue,gsap**
+- 💬 Ask me about **react,Next.js**
 
 - 📫 How to reach me **raditkhan42@gmail.com**
 - 📫 How to reach me by phone number **My Phone Number: +8801924168455**
