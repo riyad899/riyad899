@@ -20,7 +20,8 @@
 
 - 💬 Ask me about **react,vue,gsap**
 
-- 📫 How to reach me **raditkhan42@gmail.com | +88019241168455**
+- 📫 How to reach me **raditkhan42@gmail.com**
+- - 📫 How to reach me by phone number **My Phone Number: +88019241168455**
 
 - ⚡ Fun fact **Did you know that the shortest war in history was between Britain and Zanzibar in 1896? It lasted only 38 minutes! Zanzibar surrendered after a British warship bombarded the island's palace. It's like they didn't even have time to pop some popcorn!**
 
