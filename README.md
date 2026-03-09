@@ -108,27 +108,21 @@ Coffee    : Always ☕
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riyad899&show_icons=true&theme=radical&bg_color=0d1117&border_color=00f5ff&title_color=00f5ff&text_color=a0d8ef&icon_color=bf00ff&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyad899&layout=compact&theme=radical&bg_color=0d1117&border_color=00f5ff&title_color=00f5ff&text_color=a0d8ef&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riyad899&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyad899&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyad899&theme=radical&background=0d1117&border=00f5ff&ring=bf00ff&fire=00f5ff&currStreakLabel=00f5ff&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=riyad899&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyad899&bg_color=0d1117&color=00f5ff&line=bf00ff&point=39ff14&area=true&hide_border=false&border_color=00f5ff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyad899&bg_color=1a1b27&color=00f5ff&line=bf00ff&point=39ff14&area=true&hide_border=true" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-
-[![Rootsy](https://github-readme-stats.vercel.app/api/pin/?username=riyad899&repo=rootsy&theme=radical&bg_color=0d1117&border_color=00f5ff&title_color=00f5ff&text_color=a0d8ef&icon_color=bf00ff)](https://courageous-sawine-39b32c.netlify.app/)
-
-</div>
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
