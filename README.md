@@ -22,7 +22,7 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" />
 
 ### 🧬 `whoami`
 
@@ -142,7 +142,7 @@ Coffee    : Always ☕
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=riyad899&theme=radical&no-frame=false&no-bg=false&margin-w=6&row=1&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=riyad899&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -150,8 +150,12 @@ Coffee    : Always ☕
 
 ## 📈 Contribution Snake
 
+> ⚠️ To enable the snake animation, add this GitHub Action to your repo:  
+> `.github/workflows/snake.yml` — see instructions below the README.
+
 <div align="center">
 
+<!-- Once snake action is set up, this will animate: -->
 ![Snake animation](https://raw.githubusercontent.com/riyad899/riyad899/output/github-contribution-grid-snake-dark.svg)
 
 </div>
@@ -161,9 +165,9 @@ Coffee    : Always ☕
 ## 🎬 Coding Vibes
 
 <div align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/ZVik7pIGkcAYoAwhfx/giphy.gif" width="280" />
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="280" />
 </div>
 
 ---
