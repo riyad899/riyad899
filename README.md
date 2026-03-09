@@ -138,10 +138,17 @@ Coffee    : Always ☕
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riyad899&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" alt="trophies" />
+
+![](https://img.shields.io/badge/🏆_Repositories-50+-00f5ff?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/⭐_Stars_Earned-100+-bf00ff?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🔥_Contributions-1200+-39ff14?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/🌍_Open_Source-Active-ff6b00?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/👥_Followers-Growing-00f5ff?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/💼_Experience-3+_Years-bf00ff?style=for-the-badge&labelColor=0d1117)
+
 </div>
 
 ---
