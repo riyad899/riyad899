@@ -141,21 +141,15 @@ Coffee    : Always ☕
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=riyad899&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=riyad899&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" alt="trophies" />
 </div>
 
 ---
 
 ## 📈 Contribution Snake
 
-> ⚠️ To enable the snake animation, add this GitHub Action to your repo:  
-> `.github/workflows/snake.yml` — see instructions below the README.
-
 <div align="center">
 
-<!-- Once snake action is set up, this will animate: -->
 ![Snake animation](https://raw.githubusercontent.com/riyad899/riyad899/output/github-contribution-grid-snake-dark.svg)
 
 </div>
