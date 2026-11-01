@@ -42,7 +42,7 @@ Coffee    : Always ☕
 - 👯 Looking to collaborate on **[CodeConnect](https://github.com/CodeConnect)**
 - 🤝 Seeking help with **MoneyMaster**
 - 💬 Ask me about **React · Next.js · Full Stack**
-- 📫 Reach me: **raditkhan42@gmail.com**
+- 📫 Reach me: **riyadus899@gmail.com**
 - 📝 Articles on **[LinkedIn](https://www.linkedin.com/in/riyadus/recent-activity/all/)**
 
 ---
