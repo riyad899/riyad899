@@ -30,7 +30,7 @@
 Name      : Riyadus Salehin
 Role      : Full Stack Developer
 Location  : Dhaka, Bangladesh 🇧🇩
-Email     : raditkhan42@gmail.com
+Email     : riyadus899@gmail.com
 Status    : Available for Collaboration ✅
 Coffee    : Always ☕
 ```
